@@ -1,8 +1,8 @@
-# Title
+# Data Science in Production
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
+This course covers the tools and techniques commonly utilized for production machine learning in industry. Students learn how to provide web interfaces for training machine learning or deep learning models with Flask and Docker. Students will deploy models in the cloud through Amazon Web Services, gather and process data from the web, and display information for consumption in advanced web applications using Plotly and D3.js. The students use PySpark to make querying even the largest data stores manageable.
 
 ### Why you should know this (optional)
 
@@ -20,8 +20,7 @@ Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
-- [Prerequisite 1]()
-- [Prerequisite 2]()
+- DS 2.1()
 
 ## Learning Outcomes
 
@@ -29,11 +28,11 @@ Class Sessions:  14 classes, 7 labs
 
 Students by the end of the course will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
+1. Create the Machine Learning or Deep Learning on the Web App by Flask, Flask-Restplus
+1. Dockerize the Flask Web App and then develop on Amazon Web Services (AWS)
+1. Read large dataset fro S3 by Boto
+1. Implement Advance Visualization by Chart.js and D3.js and Python Backend
+1. Work by Pyspark, H2O and Pandas for Big Data
 
 
 
@@ -119,7 +118,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 - **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
 - **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
-- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class. 
+- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class.
 
 #### Why are we doing this?
 
@@ -144,7 +143,7 @@ Through this requirement, we hope to encourage you to think about projects with 
 **[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
 To pass this course you must meet the following requirements:
 
-- Complete all required tutorials 
+- Complete all required tutorials
 - Pass all projects according to the associated project rubric
 - Pass the final summative assessment >=75%
 - Actively participate in class and abide by the attendance policy
@@ -157,7 +156,7 @@ Attendance requirements for scheduled sessions are:
 - No more than two no call no shows per term in any scheduled session.
 - No more than four excused absences per term in any scheduled session.
 
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School. 
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
 
 ## Make School Course Policies
