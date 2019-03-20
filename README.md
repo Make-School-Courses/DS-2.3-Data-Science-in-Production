@@ -24,9 +24,7 @@ Class Sessions:  14 classes, 7 labs
 
 ## Learning Outcomes
 
-**[INSTRUCTOR NOTE: PLEASE LIST (5-8) LEARNING OUTCOMES]**
-
-Students by the end of the course will be able to ...
+Students by the end of the course will be able to:
 
 1. Create the Machine Learning or Deep Learning on the Web App by Flask, Flask-Restplus
 1. Dockerize the Flask Web App and then develop on Amazon Web Services (AWS)
@@ -71,7 +69,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday, April 2                        | [Lesson 1] |
+|  1 |  Tuesday, April 2                        | [Flask] |
 |  2 |  Thursday, April 4                       | [Lesson 2] |
 |  3 |  Tuesday, April 9                        | [Lesson 3] |
 |  4 |  Thursday, April 11                      | [Lesson 4] |
@@ -86,7 +84,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | 13 |  Tuesday, May 14                         | Final Class (presentations, etc) |
 | 14 |  Thursday, May 16                        | Final Exams/Presentations |
 
-[Lesson 1]: Lessons/Lesson1.md
+[Flask]: Lessons/Flask.md
 [Lesson 2]: Lessons/Lesson2.md
 [Lesson 3]: Lessons/Lesson3.md
 [Lesson 4]: Lessons/Lesson4.md
