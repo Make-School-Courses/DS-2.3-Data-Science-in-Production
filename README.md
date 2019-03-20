@@ -71,7 +71,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tuesday, April 2                        | [Flask] |
 |  2 |  Thursday, April 4                       | [Docker and AWS] |
-|  3 |  Tuesday, April 9                        | [Lesson 3] |
+|  3 |  Tuesday, April 9                        | [Big Data Storage] |
 |  4 |  Thursday, April 11                      | [Lesson 4] |
 |  5 |  Tuesday, April 16                       | [Lesson 5] |
 |  6 |  Thursday, April 18                      | [Lesson 6] |
@@ -86,7 +86,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 [Flask]: Lessons/Flask.md
 [Docker and AWS]: Lessons/DockerAWS.md
-[Lesson 3]: Lessons/Lesson3.md
+[Big Data Storage]: Lessons/BigDataStorage.md
 [Lesson 4]: Lessons/Lesson4.md
 [Lesson 5]: Lessons/Lesson5.md
 [Lesson 6]: Lessons/Lesson6.md
