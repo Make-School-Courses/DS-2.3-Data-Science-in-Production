@@ -70,7 +70,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tuesday, April 2                        | [Flask] |
-|  2 |  Thursday, April 4                       | [Lesson 2] |
+|  2 |  Thursday, April 4                       | [Docker and AWS] |
 |  3 |  Tuesday, April 9                        | [Lesson 3] |
 |  4 |  Thursday, April 11                      | [Lesson 4] |
 |  5 |  Tuesday, April 16                       | [Lesson 5] |
@@ -85,7 +85,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | 14 |  Thursday, May 16                        | Final Exams/Presentations |
 
 [Flask]: Lessons/Flask.md
-[Lesson 2]: Lessons/Lesson2.md
+[Docker and AWS]: Lessons/DockerAWS.md
 [Lesson 3]: Lessons/Lesson3.md
 [Lesson 4]: Lessons/Lesson4.md
 [Lesson 5]: Lessons/Lesson5.md
