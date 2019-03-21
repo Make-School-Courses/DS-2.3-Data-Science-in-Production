@@ -74,7 +74,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |  3 |  Tuesday, April 9                        | [Big Data Storage] |
 |  4 |  Thursday, April 11                      | [Lesson 4] |
 |  5 |  Tuesday, April 16                       | [Lesson 5] |
-|  6 |  Thursday, April 18                      | [Lesson 6] |
+|  6 |  Thursday, April 18                      | [Advanced Python] |
 |  7 |  Tuesday, April 23                       | [Lesson 7] |
 |  8 |  Thursday, April 25                      | [Lesson 8] |
 |  9 |  Tuesday, April 30                       | [Lesson 9] |
@@ -89,7 +89,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 [Big Data Storage]: Lessons/BigDataStorage.md
 [Lesson 4]: Lessons/Lesson4.md
 [Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
+[Advanced Python]: Lessons/AdvancedPython.md
 [Lesson 7]: Lessons/Lesson7.md
 [Lesson 8]: Lessons/Lesson8.md
 [Lesson 9]: Lessons/Lesson9.md
