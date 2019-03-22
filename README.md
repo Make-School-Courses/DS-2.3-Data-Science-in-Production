@@ -20,7 +20,7 @@ Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
-- DS 2.1()
+- DS 2.1
 
 ## Learning Outcomes
 
