@@ -20,17 +20,17 @@ Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
-- DS 2.1
+- [DS 2.1](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning)
 
 ## Learning Outcomes
 
 Students by the end of the course will be able to:
 
-1. Create the Machine Learning or Deep Learning on the Web App by Flask, Flask-Restplus
-1. Dockerize the Flask Web App and then develop on Amazon Web Services (AWS)
-1. Read large dataset fro S3 by Boto
-1. Implement Advance Visualization by Chart.js and D3.js and Python Backend
-1. Work by Pyspark, H2O and Pandas for Big Data
+1. Implement Machine Learning or Deep Learning on a Web App using Flask and Flask-Restplus
+1. Dockerize the Flask Web App and develop it on Amazon Web Services (AWS)
+1. Read large datasets from S3 through Boto
+1. Implement Advanced Visualizations using a Chart.js/D3.js frontend, and a Python Backend
+1. Work on Big Data using Pyspark, H2O and Pandas
 
 
 
