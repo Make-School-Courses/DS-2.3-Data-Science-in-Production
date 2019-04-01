@@ -47,12 +47,12 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Monday, April 1                         | [Lesson 1] |
-|  2 |  Wednesday, April 3                      | [Lesson 2] |
-|  3 |  Monday, April 8                         | [Lesson 3] |
+|  1 |  Monday, April 1                         | [Flask] |
+|  2 |  Wednesday, April 3                      | [Docker and AWS] |
+|  3 |  Monday, April 8                         | [Big Data Storage] |
 |  4 |  Wednesday, April 10                     | [Lesson 4] |
 |  5 |  Monday, April 15                        | [Lesson 5] |
-|  6 |  Wednesday, April 17                     | [Lesson 6] |
+|  6 |  Wednesday, April 17                     | [Advance Python] |
 |  7 |  Monday, April 22                        | [Lesson 7] |
 |  8 |  Wednesday, April 24                     | [Lesson 8] |
 |  9 |  Monday, April 29                        | [Lesson 9] |
@@ -62,27 +62,6 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | 13 |  Monday, May 13                          | Final Class (presentations, etc) |
 | 14 |  Wednesday, May 15                       | Final Exams/Presentations |
 
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE APRIL 1]**
-**Course Dates:** Tuesday, April 2 – Thursday, May 16, 2019 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday, April 2                        | [Flask] |
-|  2 |  Thursday, April 4                       | [Docker and AWS] |
-|  3 |  Tuesday, April 9                        | [Big Data Storage] |
-|  4 |  Thursday, April 11                      | [Lesson 4] |
-|  5 |  Tuesday, April 16                       | [Lesson 5] |
-|  6 |  Thursday, April 18                      | [Advanced Python] |
-|  7 |  Tuesday, April 23                       | [Lesson 7] |
-|  8 |  Thursday, April 25                      | [Lesson 8] |
-|  9 |  Tuesday, April 30                       | [Lesson 9] |
-| 10 |  Thursday, May 2                         | [Lesson 10] |
-| 11 |  Tuesday, May 7                          | [Lesson 11] |  
-| 12 |  Thursday, May 9                         | [Lesson 12] |
-| 13 |  Tuesday, May 14                         | Final Class (presentations, etc) |
-| 14 |  Thursday, May 16                        | Final Exams/Presentations |
 
 [Flask]: Lessons/Flask.md
 [Docker and AWS]: Lessons/DockerAWS.md
