@@ -47,7 +47,7 @@ Students by the end of the course will be able to:
 |  3 |  Monday, April 8                         | [Big Data Storage] |
 |  4 |  Wednesday, April 10                     | [Lesson 4] |
 |  5 |  Monday, April 15                        | [Lesson 5] |
-|  6 |  Wednesday, April 17                     | [Advance Python] |
+|  6 |  Wednesday, April 17                     | [Advanced Python] |
 |  7 |  Monday, April 22                        | [Lesson 7] |
 |  8 |  Wednesday, April 24                     | [Lesson 8] |
 |  9 |  Monday, April 29                        | [Lesson 9] |
