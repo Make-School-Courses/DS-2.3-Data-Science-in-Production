@@ -20,27 +20,22 @@ Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
-- DS 2.1
+- [DS 2.1](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning)
 
 ## Learning Outcomes
 
 Students by the end of the course will be able to:
 
-1. Create the Machine Learning or Deep Learning on the Web App by Flask, Flask-Restplus
-1. Dockerize the Flask Web App and then develop on Amazon Web Services (AWS)
-1. Read large dataset fro S3 by Boto
-1. Implement Advance Visualization by Chart.js and D3.js and Python Backend
-1. Work by Pyspark, H2O and Pandas for Big Data
+1. Implement Machine Learning or Deep Learning on a Web App using Flask and Flask-Restplus
+1. Dockerize the Flask Web App and develop it on Amazon Web Services (AWS)
+1. Read large datasets from S3 through Boto
+1. Implement Advanced Visualizations using a Chart.js/D3.js frontend, and a Python Backend
+1. Work on Big Data using Pyspark, H2O and Pandas
 
 
 
 ## Schedule
----
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE APRIL 1]**
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
----
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE APRIL 1]**
 **Course Dates:** Monday, April 1 – Wednesday, May 15, 2019 (7 weeks)
 
 **Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
@@ -76,20 +71,11 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
 
-## Class Assignments [REMOVE HEADER IF YOU LIKE]
-- List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
-- Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
-- Projects should be linked to a project page which has a description & requirements.
-
-### Tutorials
-**[REWORD AS RELEVANT TO YOUR COURSE]** Tutorials are to help you get started in a topic.  They are graded on completion only.
-
-- [Do Cool Stuff Tutorial]()
+## Class Assignments
 
 ### Projects
 
-- [Sample Project](Sample_Project.md)
-    -   [Sample Project Rubric](Sample_Rubric.md)
+- Coming Soon!
 
 **All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
 
@@ -117,7 +103,6 @@ Through this requirement, we hope to encourage you to think about projects with 
 ### Other Class assignments
 
 ## Evaluation
-**[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
 To pass this course you must meet the following requirements:
 
 - Complete all required tutorials
