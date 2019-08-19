@@ -63,8 +63,8 @@ Students by the end of the course will be able to:
 [Big Data Storage]: Lessons/BigDataStorage.md
 [Advance Visualization part 1]: Lessons/AdvanceVisualization.md
 [Advance Visualization part 2]: Lessons/AdvanceVisualization.md
-[Advanced Python part 1]: Lessons/AdvancedPython.md
-[Advanced Python part 2]: Lessons/AdvancedPython.md
+[Advance Python part 1]: Lessons/AdvancePython.md
+[Advance Python part 2]: Lessons/AdvancePython.md
 [Big Data part 1]: Lessons/BigData.md
 [Big Data part 2]: Lessons/BigData.md
 [Big Data part 3]: Lessons/BigData.md
