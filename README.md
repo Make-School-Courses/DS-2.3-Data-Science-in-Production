@@ -36,40 +36,39 @@ Students by the end of the course will be able to:
 
 ## Schedule
 
-**Course Dates:** Monday, April 1 – Wednesday, May 15, 2019 (7 weeks)
+**Course Dates:** Monday, August 26 – Wednesday, October 9, 2019 (7 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Monday, April 1                         | [Flask] |
-|  2 |  Wednesday, April 3                      | [Docker and AWS] |
-|  3 |  Monday, April 8                         | [Big Data Storage] |
-|  4 |  Wednesday, April 10                     | [Lesson 4] |
-|  5 |  Monday, April 15                        | [Lesson 5] |
-|  6 |  Wednesday, April 17                     | [Advanced Python] |
-|  7 |  Monday, April 22                        | [Lesson 7] |
-|  8 |  Wednesday, April 24                     | [Lesson 8] |
-|  9 |  Monday, April 29                        | [Lesson 9] |
-| 10 |  Wednesday, May 1                        | [Lesson 10] |
-| 11 |  Monday, May 6                           | [Lesson 11] |  
-| 12 |  Wednesday, May 8                        | [Lesson 12] |
-| 13 |  Monday, May 13                          | Final Class (presentations, etc) |
-| 14 |  Wednesday, May 15                       | Final Exams/Presentations |
-
+|  1 |   Mon, Aug 26                          | [Flask] |
+|  2 |   Wed, Aug 28                            | [Docker and AWS part 1] |
+|  - |   Mon, Sept 2                        | **NO CLASS** - Labor Day |
+|  3 |   Wed, Sept 4                            | [Docker and AWS part 2] |
+|  4 |   Mon, Sept 9                         | [Big Data Storage] |
+|  5 |   Wed, Sept 11                            | [Advance Visualization part 1] |
+|  6 |   Mon, Sept 16                         | [Advance Visualization part 2] |
+|  7 |   Wed, Sept 18                            | [Advance Python part 1] |
+|  8 |   Mon, Sept 23                           | [Advance Python part 2] |
+|  9 |   Wed, Sept 25                             | [Big Data part 1] |  
+| 10 |   Mon, Sept 30                         | [Big Data part 2]|
+| 11 |   Wed, Oct 2                         | [Big Data part 3]  |
+| 12 |   Mon, Oct 7                         |  Final Exam |
+| 13 |   Wed, Oct 9                         | Presentations  |
 
 [Flask]: Lessons/Flask.md
-[Docker and AWS]: Lessons/DockerAWS.md
+[Docker and AWS part 1]: Lessons/DockerAWS.md
+[Docker and AWS part 2]: Lessons/DockerAWS.md
 [Big Data Storage]: Lessons/BigDataStorage.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Advanced Python]: Lessons/AdvancedPython.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
+[Advance Visualization part 1]: Lessons/AdvanceVisualization.md
+[Advance Visualization part 2]: Lessons/AdvanceVisualization.md
+[Advanced Python part 1]: Lessons/AdvancedPython.md
+[Advanced Python part 2]: Lessons/AdvancedPython.md
+[Big Data part 1]: Lessons/BigData.md
+[Big Data part 2]: Lessons/BigData.md
+[Big Data part 3]: Lessons/BigData.md
+
 
 ## Class Assignments
 
