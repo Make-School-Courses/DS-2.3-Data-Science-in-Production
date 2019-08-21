@@ -71,6 +71,11 @@ Students by the end of the course will be able to:
 
 
 ## Class Assignments
+HW1: Deploying ML/DL model to AWS without docker
+<br>
+HW2: API on AWS that logs user interactions when working with the ML/DL model. Create a MongoDB or SQL Database. We want each user interactions with Flask-Keras API will be written into DB. Including the image file name, the prediction result and date for Mnist application.
+<br>
+HW3: For Titanic dataset, do Pyspark to get the same result as we got with Pandas
 
 ### Projects
 
