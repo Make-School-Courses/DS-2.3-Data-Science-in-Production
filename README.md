@@ -35,27 +35,30 @@ Students by the end of the course will be able to:
 
 
 ## Schedule
+**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
 
-**Course Dates:** Monday, August 26 – Wednesday, October 9, 2019 (7 weeks)
-
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (13 class sessions)
+**Class Times:** Monday, Wednesday at 2:45pm–5:30pm (15 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, Aug 26                          | [Flask] |
-|  2 |   Wed, Aug 28                            | [Docker and AWS part 1] |
-|  - |   Mon, Sept 2                        | **NO CLASS** - Labor Day |
-|  3 |   Wed, Sept 4                            | [Docker and AWS part 2] |
-|  4 |   Mon, Sept 9                         | [Big Data Storage] |
-|  5 |   Wed, Sept 11                            | [Advance Visualization part 1] |
-|  6 |   Mon, Sept 16                         | [Advance Visualization part 2] |
-|  7 |   Wed, Sept 18                            | [Advance Python part 1] |
-|  8 |   Mon, Sept 23                           | [Advance Python part 2] |
-|  9 |   Wed, Sept 25                             | [Big Data part 1] |  
-| 10 |   Mon, Sept 30                         | [Big Data part 2]|
-| 11 |   Wed, Oct 2                         | [Big Data part 3]  |
-| 12 |   Mon, Oct 7                         |  Final Exam |
-| 13 |   Wed, Oct 9                         | Presentations  |
+|  1 |  Wed, Aug 19               | [Flask] |
+|  2 |  Mon, Aug 24               | [Docker and AWS part 1] |
+|  3 |  Wed, Aug 26               | [Docker and AWS part 2] |
+|  4 |  Mon, Aug 31               | [Big Data Storage] |
+|  5 |  Wed, Sept 2               | [Advance Visualization part 1] |
+|  6 |  Mon, Sept 7               | [Advance Visualization part 2] |
+|  7 |  Wed, Sept 9               | [Advance Python part 1] |
+|  8 |  Mon, Sept 14              | [Advance Python part 2] |
+|  9 |  Wed, Sept 16              | [Big Data part 1] |
+| 10 |  Mon, Sept 21              | [Big Data part 2] |
+| 11 |  Wed, Sept 23              | [Big Data part 3] |
+| 12 |  Mon, Sept 28              | [Review] |
+| 13 |  Wed, Sept 30              | [Sample Final Project] |
+| 14 |  Mon, Oct 5                | Final Exam |  
+| 15 |  Wed, Oct 7                | Final Presentations |
+
+
+
 
 [Flask]: Lessons/Flask.md
 [Docker and AWS part 1]: Lessons/DockerAWS.md
