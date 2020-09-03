@@ -44,18 +44,18 @@ Students by the end of the course will be able to:
 |  1 |  Wed, Aug 19               | [Flask] |
 |  2 |  Mon, Aug 24               | [Docker and AWS part 1] |
 |  3 |  Wed, Aug 26               | [Docker and AWS part 2] |
-|  4 |  Mon, Aug 31               | [Big Data Storage] |
-|  5 |  Wed, Sept 2               | [Advance Visualization part 1] |
-|  6 |  Mon, Sept 7               | [Advance Visualization part 2] |
-|  7 |  Wed, Sept 9               | [Advance Python part 1] |
-|  8 |  Mon, Sept 14              | [Advance Python part 2] |
-|  9 |  Wed, Sept 16              | [Big Data part 1] |
-| 10 |  Mon, Sept 21              | [Big Data part 2] |
-| 11 |  Wed, Sept 23              | [Big Data part 3] |
-| 12 |  Mon, Sept 28              | [Review] |
-| 13 |  Wed, Sept 30              | [Sample Final Project] |
-| 14 |  Mon, Oct 5                | Final Exam |  
-| 15 |  Wed, Oct 7                | Final Presentations |
+|  4 |  Mon, Aug 31               | [Docker and AWS part 3] |
+|  5 |  Wed, Sept 2               | [Big Data Storage] |
+|  - |  Mon, Sept 7               | [Holiday- Labor Day] |
+|  6 |  Wed, Sept 9               | [Advance Visualization part 1] |
+|  7 |  Mon, Sept 14               | [Advance Visualization part 2] |
+|  8 |  Wed, Sept 16               | [Advance Python part 1] |
+|  9 |  Mon, Sept 21              | [Advance Python part 2] |
+|  10 | Wed, Sept 23              | [Big Data part 1] |
+| 11 |  Mon, Sept 28              | [Big Data part 2] |
+| 12 |  Wed, Sept 30              | [Big Data part 3 - Review] |
+| 13 |  Mon, Oct 5              | [Final Exam ] |
+| 14 |  Wed, Oct 7              | [Final Presentations] |
 
 
 
