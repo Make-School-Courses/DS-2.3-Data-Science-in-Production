@@ -80,7 +80,7 @@ HW2: API on AWS that logs user interactions when working with the ML/DL model. C
 <br>
 HW3: For Titanic dataset, do Pyspark to get the same result as we got with Pandas
 
-[Submit your HW here](https://docs.google.com/spreadsheets/d/1tDhdVjWf15f_8zrV5RrWVvB1CXCSy21DMX_nAWcMCbE/edit#gid=139168632)
+[Submit your HW here](https://docs.google.com/spreadsheets/d/1liWZs-aShDquz_LEB7B2YTzGF7VA_J7mWUFQxL3eR5M/edit#gid=139168632)
 ### Projects
 
 - Coming Soon!
