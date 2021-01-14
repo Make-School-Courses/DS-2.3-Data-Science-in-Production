@@ -35,22 +35,22 @@ Students by the end of the course will be able to:
 
 **Class Times:** Monday, Wednesday at 2:45am–5:30 pm (13 class sessions)
 
-| Class |     Date      |             Topics             |
-| :---: | :-----------: | :----------------------------: |
-|   -   | Tues, Jan 19  |     **No Class - MLK Day**     |
-|   1   | Thurs, Jan 21 |            [Flask]             |
-|   2   | Tues, Jan 26  |    [Docker and AWS part 1]     |
-|   3   | Thurs Jan 28  |    [Docker and AWS part 2]     |
-|   4   |  Tues, Feb 2  |    [Docker and AWS part 3]     |
-|   5   | Thurs, Feb 4  |       [Big Data Storage]       |
-|   6   |  Tues, Feb 9  | [Advance Visualization part 1] |
-|   7   | Thurs, Feb 11 | [Advance Visualization part 2] |
-|   8   | Tues, Feb 16  |    [Advance Python part 1]     |
-|   9   | Thurs, Feb 18 |    [Advance Python part 2]     |
-|  10   | Tues, Feb 23  |       [Big Data part 1]        |
-|  11   | Thurs, Feb 25 |       [Big Data part 2]        |
-|  12   |  Tues, Mar 2  |       [Big Data part 3]        |
-|  13   | Thurs, Mar 4  |    Final Exam/Presentations    |
+| Class |     Date      |             Topics              |
+| :---: | :-----------: | :-----------------------------: |
+|   -   | Tues, Jan 19  |     **No Class - MLK Day**      |
+|   1   | Thurs, Jan 21 |             [Flask]             |
+|   2   | Tues, Jan 26  |     [Docker and AWS part 1]     |
+|   3   | Thurs Jan 28  |     [Docker and AWS part 2]     |
+|   4   |  Tues, Feb 2  |     [Docker and AWS part 3]     |
+|   5   | Thurs, Feb 4  |       [Big Data Storage]        |
+|   6   |  Tues, Feb 9  | [Advanced Visualization part 1] |
+|   7   | Thurs, Feb 11 | [Advanced Visualization part 2] |
+|   8   | Tues, Feb 16  |    [Advanced Python part 1]     |
+|   9   | Thurs, Feb 18 |    [Advanced Python part 2]     |
+|  10   | Tues, Feb 23  |        [Big Data part 1]        |
+|  11   | Thurs, Feb 25 |        [Big Data part 2]        |
+|  12   |  Tues, Mar 2  |        [Big Data part 3]        |
+|  13   | Thurs, Mar 4  |    Final Exam/Presentations     |
 
 
 
