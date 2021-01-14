@@ -49,7 +49,7 @@ Students by the end of the course will be able to:
 |   9   | Wed, Feb 17 |    [Advance Python part 2]     |
 |  10   | Mon, Feb 22 |       [Big Data part 1]        |
 |  11   | Wed, Feb 24 |       [Big Data part 2]        |
-|  12   | Mon, Mar 1  |   [Big Data part 3 - Review]   |
+|  12   | Mon, Mar 1  |       [Big Data part 3]        |
 |  13   | Wed, Mar 3  |    Final Exam/Presentations    |
 
 
@@ -57,7 +57,7 @@ Students by the end of the course will be able to:
 
 [Flask]: Lessons/Flask.md
 [Docker and AWS part 1]: Lessons/DockerAWS.md
-[Docker and AWS part 2]: Lessons/DockerAWS.md
+[Docker and AWS part 2]: Lessons/DockerAWS.md 
 [Big Data Storage]: Lessons/BigDataStorage.md
 [Advance Visualization part 1]: Lessons/AdvanceVisualization.md
 [Advance Visualization part 2]: Lessons/AdvanceVisualization.md
