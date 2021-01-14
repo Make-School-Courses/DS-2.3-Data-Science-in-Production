@@ -31,26 +31,26 @@ Students by the end of the course will be able to:
 
 
 ## Schedule
-**Course Dates:** Wednesday, January 20 – Wednesday, March 3, 2021 (7 weeks)
+**Course Dates:** Thursday, January 21 – Thursday, March 4, 2021 (7 weeks)
 
 **Class Times:** Monday, Wednesday at 2:45am–5:30 pm (13 class sessions)
 
-| Class |    Date     |             Topics             |
-| :---: | :---------: | :----------------------------: |
-|   -   | Mon, Jan 18 |     **No Class - MLK Day**     |
-|   1   | Wed, Jan 20 |            [Flask]             |
-|   2   | Mon, Jan 25 |    [Docker and AWS part 1]     |
-|   3   | Wed, Jan 27 |    [Docker and AWS part 2]     |
-|   4   | Mon, Feb 1  |    [Docker and AWS part 3]     |
-|   5   | Wed, Feb 3  |       [Big Data Storage]       |
-|   6   | Mon, Feb 8  | [Advance Visualization part 1] |
-|   7   | Wed, Feb 10 | [Advance Visualization part 2] |
-|   8   | Mon, Feb 15 |    [Advance Python part 1]     |
-|   9   | Wed, Feb 17 |    [Advance Python part 2]     |
-|  10   | Mon, Feb 22 |       [Big Data part 1]        |
-|  11   | Wed, Feb 24 |       [Big Data part 2]        |
-|  12   | Mon, Mar 1  |       [Big Data part 3]        |
-|  13   | Wed, Mar 3  |    Final Exam/Presentations    |
+| Class |     Date      |             Topics             |
+| :---: | :-----------: | :----------------------------: |
+|   -   | Tues, Jan 19  |     **No Class - MLK Day**     |
+|   1   | Thurs, Jan 21 |            [Flask]             |
+|   2   | Tues, Jan 26  |    [Docker and AWS part 1]     |
+|   3   | Thurs Jan 28  |    [Docker and AWS part 2]     |
+|   4   |  Tues, Feb 2  |    [Docker and AWS part 3]     |
+|   5   | Thurs, Feb 4  |       [Big Data Storage]       |
+|   6   |  Tues, Feb 9  | [Advance Visualization part 1] |
+|   7   | Thurs, Feb 11 | [Advance Visualization part 2] |
+|   8   | Tues, Feb 16  |    [Advance Python part 1]     |
+|   9   | Thurs, Feb 18 |    [Advance Python part 2]     |
+|  10   | Tues, Feb 23  |       [Big Data part 1]        |
+|  11   | Thurs, Feb 25 |       [Big Data part 2]        |
+|  12   |  Tues, Mar 2  |       [Big Data part 3]        |
+|  13   | Thurs, Mar 4  |    Final Exam/Presentations    |
 
 
 
