@@ -2,15 +2,15 @@
 
 ## Course Description
 
-This course covers the tools and techniques commonly utilized for production machine learning in industry. Students learn how to provide web interfaces for training machine learning or deep learning models with Flask and Docker. Students will deploy models in the cloud through Amazon Web Services, gather and process data from the web, and display information for consumption in advanced web applications using Plotly and D3.js. The students use PySpark to make querying even the largest data stores manageable.
+This course covers the tools and techniques commonly utilized for production machine learning in industry. Students learn how to provide web interfaces for training machine learning or deep learning models with Flask and Docker. Students will deploy models in the cloud through Amazon Web Services (AWS), gather and process data from the web, and display information for consumption in advanced web applications using Plotly and D3.js. Students use PySpark to make querying even the largest data stores manageable.
 
 ### Why you should know this (optional)
 
-Explain why students should care to learn the material presented in this class.
+In this course you will acquire a set of key skills iexpected of Data Scientists and Engineers
 
 ## Course Specifics
 
-**Course Delivery**: online | 7 weeks | 14 sessions
+**Course Delivery**: online | 7 weeks | 13 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
@@ -22,36 +22,35 @@ Explain why students should care to learn the material presented in this class.
 
 Students by the end of the course will be able to:
 
-1. Implement Machine Learning or Deep Learning on a Web App using Flask and Flask-Restplus
+1. Implement Machine Learning or Deep Learning on a Web App using Flask and Flask-RESTPlus
 1. Dockerize the Flask Web App and develop it on Amazon Web Services (AWS)
-1. Read large datasets from S3 through Boto
-1. Implement Advanced Visualizations using a Chart.js/D3.js frontend, and a Python Backend
-1. Work on Big Data using Pyspark, H2O and Pandas
+1. Read large datasets from AWS Simple Storage Services (S3) through the Boto  python interface
+1. Implement Advanced Visualizations using a Chart.js/D3.js Frontend, and a Python Backend
+1. Work on Big Data using PySpark, H2O and Pandas
 
 
 
 ## Schedule
-**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
+**Course Dates:** Wednesday, January 20 – Wednesday, March 3, 2021 (7 weeks)
 
-**Class Times:** Monday, Wednesday at 2:45pm–5:30pm (15 class sessions)
+**Class Times:** Monday, Wednesday at 2:45am–5:30 pm (13 class sessions)
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Aug 19               | [Flask] |
-|  2 |  Mon, Aug 24               | [Docker and AWS part 1] |
-|  3 |  Wed, Aug 26               | [Docker and AWS part 2] |
-|  4 |  Mon, Aug 31               | [Docker and AWS part 3] |
-|  5 |  Wed, Sept 2               | [Big Data Storage] |
-|  - |  Mon, Sept 7               | [Holiday- Labor Day] |
-|  6 |  Wed, Sept 9               | [Advance Visualization part 1] |
-|  7 |  Mon, Sept 14               | [Advance Visualization part 2] |
-|  8 |  Wed, Sept 16               | [Advance Python part 1] |
-|  9 |  Mon, Sept 21              | [Advance Python part 2] |
-|  10 | Wed, Sept 23              | [Big Data part 1] |
-| 11 |  Mon, Sept 28              | [Big Data part 2] |
-| 12 |  Wed, Sept 30              | [Big Data part 3 - Review] |
-| 13 |  Mon, Oct 5              | [Final Exam ] |
-| 14 |  Wed, Oct 7              | [Final Presentations] |
+| Class |    Date     |             Topics             |
+| :---: | :---------: | :----------------------------: |
+|   -   | Mon, Jan 18 |     **No Class - MLK Day**     |
+|   1   | Wed, Jan 20 |            [Flask]             |
+|   2   | Mon, Jan 25 |    [Docker and AWS part 1]     |
+|   3   | Wed, Jan 27 |    [Docker and AWS part 2]     |
+|   4   | Mon, Feb 1  |    [Docker and AWS part 3]     |
+|   5   | Wed, Feb 3  |       [Big Data Storage]       |
+|   6   | Mon, Feb 8  | [Advance Visualization part 1] |
+|   7   | Wed, Feb 10 | [Advance Visualization part 2] |
+|   8   | Mon, Feb 15 |    [Advance Python part 1]     |
+|   9   | Wed, Feb 17 |    [Advance Python part 2]     |
+|  10   | Mon, Feb 22 |       [Big Data part 1]        |
+|  11   | Wed, Feb 24 |       [Big Data part 2]        |
+|  12   | Mon, Mar 1  |   [Big Data part 3 - Review]   |
+|  13   | Wed, Mar 3  |    Final Exam/Presentations    |
 
 
 
@@ -69,12 +68,14 @@ Students by the end of the course will be able to:
 [Big Data part 3]: Lessons/BigData.md
 
 
+
 ## Class Assignments
-HW1: Deploying ML/DL model to AWS without docker
-<br>
-HW2: API on AWS that logs user interactions when working with the ML/DL model. Create a MongoDB or SQL Database. We want each user interactions with Flask-Keras API will be written into DB. Including the image file name, the prediction result and date for Mnist application.
-<br>
-HW3: For Titanic dataset, do Pyspark to get the same result as we got with Pandas
+
+
+
+* HW1: Deploying a Machine Learning or Deep Learning (ML/DL) model to AWS (Amazon Web Services) without Docker
+* HW2: Application Programming Interface (API) on AWS that logs user interactions when working with the ML/DL model. Create a MongoDB or SQL Database. User interactions with Flask-Keras API will be written into the database (DB), including the image file name, the prediction result and date for MNIST application.
+* HW3: For the Titanic dataset, use PySpark to get the same result as we got with Pandas
 
 [Submit your HW here](https://docs.google.com/spreadsheets/d/1liWZs-aShDquz_LEB7B2YTzGF7VA_J7mWUFQxL3eR5M/edit#gid=139168632)
 ### Projects
@@ -113,7 +114,7 @@ To pass this course you must meet the following requirements:
 - Pass all projects according to the associated project rubric
 - Pass the final summative assessment >=75%
 - Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
+- Make up classwork from all absences
 
 ##  Information Resources
 
