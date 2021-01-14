@@ -6,7 +6,7 @@ This course covers the tools and techniques commonly utilized for production mac
 
 ### Why you should know this (optional)
 
-In this course you will acquire a set of key skills iexpected of Data Scientists and Engineers
+In this course you will acquire a set of key skills expected of Data Scientists and Engineers
 
 ## Course Specifics
 
