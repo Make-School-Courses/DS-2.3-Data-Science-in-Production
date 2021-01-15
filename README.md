@@ -4,7 +4,7 @@
 
 This course covers the tools and techniques commonly utilized for production machine learning in industry. Students learn how to provide web interfaces for training machine learning or deep learning models with Flask and Docker. Students will deploy models in the cloud through Amazon Web Services (AWS), gather and process data from the web, and display information for consumption in advanced web applications using Plotly and D3.js. Students use PySpark to make querying even the largest data stores manageable.
 
-### Why you should know this (optional)
+### Why you should know this
 
 In this course you will acquire a set of key skills expected of Data Scientists and Engineers
 
