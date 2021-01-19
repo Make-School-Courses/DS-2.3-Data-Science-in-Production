@@ -57,7 +57,7 @@ Students by the end of the course will be able to:
 
 [Flask]: Lessons/Flask.md
 [Docker and AWS part 1]: Lessons/DockerAWS.md
-[Docker and AWS part 2]: Lessons/DockerAWS.md 
+[Docker and AWS part 2]: Lessons/DockerAWS.md
 [Big Data Storage]: Lessons/BigDataStorage.md
 [Advance Visualization part 1]: Lessons/AdvanceVisualization.md
 [Advance Visualization part 2]: Lessons/AdvanceVisualization.md
