@@ -71,50 +71,28 @@ Students by the end of the course will be able to:
 
 ## Class Assignments
 
+### Coming Soon!
 
-
+<!--
 * HW1: Deploying a Machine Learning or Deep Learning (ML/DL) model to AWS (Amazon Web Services) without Docker
 * HW2: Application Programming Interface (API) on AWS that logs user interactions when working with the ML/DL model. Create a MongoDB or SQL Database. User interactions with Flask-Keras API will be written into the database (DB), including the image file name, the prediction result and date for MNIST application.
 * HW3: For the Titanic dataset, use PySpark to get the same result as we got with Pandas
 
-[Submit your HW here](https://docs.google.com/spreadsheets/d/1liWZs-aShDquz_LEB7B2YTzGF7VA_J7mWUFQxL3eR5M/edit#gid=139168632)
-### Projects
+[Submit your HW here](https://docs.google.com/spreadsheets/d/1liWZs-aShDquz_LEB7B2YTzGF7VA_J7mWUFQxL3eR5M/edit#gid=139168632) -->
 
-- Coming Soon!
+### Quizzes
 
-**All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
-
-- **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
-- **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
-- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class.
-
-#### Why are we doing this?
-
-We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
-
-- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
-- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
-- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
-
-Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
-
-### Final Exam
-
--  **Passing the exam is a requirement for passing the class.**
-- You will have 2 hours to complete this exam - it will be in class using paper and pencil, or a format of the instructor's choosing
-- There are no retakes of the exam.
+-  **Recieving a 70% or higher for all quizzes is a requirement for passing the class.**
+- There will be 4 quizzes throughout this course, and topics/quiz dates will be outlined in the schedule
 - If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
-
-### Other Class assignments
 
 ## Evaluation
 To pass this course you must meet the following requirements:
 
-- Complete all required tutorials
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment >=75%
-- Actively participate in class and abide by the attendance policy
-- Make up classwork from all absences
+- Complete 3 out of 4 homework assignments (graded by completion)
+- Score 70% or higher on the course project according to the course rubric (see project page for rubric details)
+- Complete all labs
+- Score 70% or higher on all quizzes
 
 ##  Information Resources
 
