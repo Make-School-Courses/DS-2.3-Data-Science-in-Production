@@ -40,8 +40,7 @@ Students by the end of the course will be able to:
 |   1   | Thu, Jan 21 |        [Introduction and accessing O'Reilly books through the MARINet library service](https://docs.google.com/document/d/1844RSfAT8ybMYJjBqcU8PO_XR8ExdowONKegBbsrz30/edit?usp=sharing)        |
 |   2   | Tue, Jan 26 |        [Full Stack Deep Learning setup for labs](https://docs.google.com/presentation/d/1hFYmpxAJ-sJzdVCuZ2hJq9qiq_aA7_5UmjVSyrgDYhY/edit?usp=sharing)        |
 |   3   | Thu Jan 28  |        [Lab 1: Building an Interactive app with Chartist](https://docs.google.com/presentation/d/14zfXo0wVAJM5BqoIJYH5qOVsl1uDCnD3VFzD2is4bBE/edit?usp=sharing)
-|   4   | Tue, Feb 2  |        [Lab 2: Model Deployment Using Flask: Digit Recognizer Web App
-](https://docs.google.com/presentation/d/1N1NyPNVBQR7SH3SPq3TlWXs4GRXFSM0T_5GTZzMbJGY/edit?usp=sharing)        |
+|   4   | Tue, Feb 2  |        [Lab 2: Model Deployment Using Flask: Digit Recognizer Web App](https://docs.google.com/presentation/d/1N1NyPNVBQR7SH3SPq3TlWXs4GRXFSM0T_5GTZzMbJGY/edit?usp=sharing)        |
 |   5   | Thu, Feb 4  |        [Lab 3: Nasdaq Stock Prices Visualization with D3](https://docs.google.com/presentation/d/1tloR_rrl5_a3tIhYyGWqNB_rvPTRN4BUCk3H-JfPLGI/edit?usp=sharing)        |
 |   6   | Tue, Feb 9  |        [Lab 4: Deploying an ML model to the Web on Heroku, Part 1](https://docs.google.com/presentation/d/1uXSPgFvN7vrT9SrAZkmFYK-UvA2nuz5peakmOa9YEDY/edit?usp=sharing)        |
 |   7   | Thu, Feb 11 |        [Lab 5: Deploying an ML model to the Web on Heroku, Part 2](https://docs.google.com/presentation/d/1IYXIgrslGmoa05N2oOPYI-vCTcWXXO2CjzVVXLoI9JE/edit?usp=sharing)        |
