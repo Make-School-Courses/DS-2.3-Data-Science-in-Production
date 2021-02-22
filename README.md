@@ -10,7 +10,7 @@ In this course you will acquire a set of key skills expected of Data Scientists 
 
 ## Course Specifics
 
-**Course Delivery**: online | 7 weeks | 13 sessions
+**Course Delivery**: Online | 7 weeks | 13 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
@@ -22,12 +22,11 @@ In this course you will acquire a set of key skills expected of Data Scientists 
 
 Students by the end of the course will be able to:
 
-1. Implement Machine Learning or Deep Learning on a Web App using Flask and Flask-RESTPlus
-1. Dockerize the Flask Web App and develop it on Amazon Web Services (AWS)
-1. Read large datasets from AWS Simple Storage Services (S3) through the Boto  python interface
 1. Implement Advanced Visualizations using a Chart.js/D3.js Frontend, and a Python Backend
+1. Implement a Machine Learning or Deep Learning model on a Web App using Flask and Flask-RESTPlus
+1. Dockerize the Flask Web App and serve it on heroku
+1. Dockerize a Machine Learning or Deep Learning Model and serve it on AWS (Amazon Web Services)
 1. Work on Big Data using PySpark, H2O and Pandas
-
 
 
 ## Schedule
@@ -38,65 +37,51 @@ Students by the end of the course will be able to:
 | Class |    Date     |             Topics              |
 | :---: | :---------: | :-----------------------------: |
 |   -   | Tue, Jan 19 |          **No Class**           |
-|   1   | Thu, Jan 21 |             [Flask]             |
-|   2   | Tue, Jan 26 |     [Docker and AWS part 1]     |
-|   3   | Thu Jan 28  |     [Docker and AWS part 2]     |
-|   4   | Tue, Feb 2  |     [Docker and AWS part 3]     |
-|   5   | Thu, Feb 4  |       [Big Data Storage]        |
-|   6   | Tue, Feb 9  | [Advanced Visualization part 1] |
-|   7   | Thu, Feb 11 | [Advanced Visualization part 2] |
-|   8   | Tue, Feb 16 |    [Advanced Python part 1]     |
-|   9   | Thu, Feb 18 |    [Advanced Python part 2]     |
-|  10   | Tue, Feb 23 |        [Big Data part 1]        |
-|  11   | Thu, Feb 25 |        [Big Data part 2]        |
-|  12   | Tues, Mar 2 |        [Big Data part 3]        |
-|  13   | Thu, Mar 4  |    Final Exam/Presentations     |
-
-
-
-
-[Flask]: Lessons/Flask.md
-[Docker and AWS part 1]: Lessons/DockerAWS.md
-[Docker and AWS part 2]: Lessons/DockerAWS.md
-[Big Data Storage]: Lessons/BigDataStorage.md
-[Advance Visualization part 1]: Lessons/AdvanceVisualization.md
-[Advance Visualization part 2]: Lessons/AdvanceVisualization.md
-[Advance Python part 1]: Lessons/AdvancePython.md
-[Advance Python part 2]: Lessons/AdvancePython.md
-[Big Data part 1]: Lessons/BigData.md
-[Big Data part 2]: Lessons/BigData.md
-[Big Data part 3]: Lessons/BigData.md
-
+|   1   | Thu, Jan 21 |        [Introduction and accessing O'Reilly books through the MARINet library service](https://docs.google.com/document/d/1844RSfAT8ybMYJjBqcU8PO_XR8ExdowONKegBbsrz30/edit?usp=sharing)        |
+|   2   | Tue, Jan 26 |        [Full Stack Deep Learning setup for labs](https://docs.google.com/presentation/d/1hFYmpxAJ-sJzdVCuZ2hJq9qiq_aA7_5UmjVSyrgDYhY/edit?usp=sharing)        |
+|   3   | Thu Jan 28  |        [Lab 1: Building an Interactive app with Chartist
+](https://docs.google.com/presentation/d/14zfXo0wVAJM5BqoIJYH5qOVsl1uDCnD3VFzD2is4bBE/edit?usp=sharing)
+|   4   | Tue, Feb 2  |        [Lab 2: Model Deployment Using Flask:
+Digit Recognizer Web App
+](https://docs.google.com/presentation/d/1N1NyPNVBQR7SH3SPq3TlWXs4GRXFSM0T_5GTZzMbJGY/edit?usp=sharing)        |
+|   5   | Thu, Feb 4  |        [Lab 3: Nasdaq Stock Prices Visualization with D3](https://docs.google.com/presentation/d/1tloR_rrl5_a3tIhYyGWqNB_rvPTRN4BUCk3H-JfPLGI/edit?usp=sharing)        |
+|   6   | Tue, Feb 9  |        [Lab 4: Deploying an ML model to the Web on Heroku, Part 1
+](https://docs.google.com/presentation/d/1uXSPgFvN7vrT9SrAZkmFYK-UvA2nuz5peakmOa9YEDY/edit?usp=sharing)        |
+|   7   | Thu, Feb 11 |        [Lab 5: Deploying an ML model to the Web on Heroku, Part 2](https://docs.google.com/presentation/d/1IYXIgrslGmoa05N2oOPYI-vCTcWXXO2CjzVVXLoI9JE/edit?usp=sharing)        |
+|   8   | Tue, Feb 16 |        [Lab 6: INtroduction to Docker, Part 1](https://docs.google.com/presentation/d/198BbXIZYMFVHe5cMAthQGJYc1z9lYmpnTWiPLnFdxaM/edit?usp=sharing)        |
+|   9   | Thu, Feb 18 |        [Lab 7: Introduction to Docker, Part 2](https://docs.google.com/presentation/d/1qAVZQrVerXegDCAdFxg-NjCzzP5SH4NzQ6OZwknRY00/edit?usp=sharing)        |
+|  10   | Tue, Feb 23 |        [Lab 8: Apache Spark, Part 1]()        |
+|  11   | Thu, Feb 25 |        [Lab 9: Apache Spark, Part 2]()        |
+|  12   | Tues, Mar 2 |        [Lab 10: Apache Spark, Part 3 OR SQL, Part 1]()       |
+|  13   | Thu, Mar 4  |        [Lab 11: Apaceh Spark, Part 4 OR SQL, Part 2]()       |
 
 
 ## Class Assignments
 
-### Coming Soon!
+## On [GradeScope](https://www.gradescope.com/courses/243116)
 
 <!--
-* HW1: Deploying a Machine Learning or Deep Learning (ML/DL) model to AWS (Amazon Web Services) without Docker
-* HW2: Application Programming Interface (API) on AWS that logs user interactions when working with the ML/DL model. Create a MongoDB or SQL Database. User interactions with Flask-Keras API will be written into the database (DB), including the image file name, the prediction result and date for MNIST application.
-* HW3: For the Titanic dataset, use PySpark to get the same result as we got with Pandas
+* HW1: Chartist Flask App
+* HW2: MNIST Digit Recognizer Flask App
+* HW3: Dockerize Machine Learning Model and Deploy on AWS
+* HW4: Apache Spark #1
+* HW5: Apache Spark #2 OR SQL
+* Extra Credit: Nasdaq Stock Prices Visualization App
 
-[Submit your HW here](https://docs.google.com/spreadsheets/d/1liWZs-aShDquz_LEB7B2YTzGF7VA_J7mWUFQxL3eR5M/edit#gid=139168632) -->
+ -->
 
-### Quizzes
-
--  **Recieving a 70% or higher for all quizzes is a requirement for passing the class.**
-- There will be 4 quizzes throughout this course, and topics/quiz dates will be outlined in the schedule
 - If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
 
 ## Evaluation
 To pass this course you must meet the following requirements:
 
-- Complete 3 out of 4 homework assignments (graded by completion)
-- Score 70% or higher on the course project according to the course rubric (see project page for rubric details)
-- Complete all labs
-- Score 70% or higher on all quizzes
+- Complete 4 of the 5 homework assignments with a grade of 70% or higher
+
+
 
 ##  Information Resources
 
-Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+Additional resources you may need (online books, etc.) can be found in the library linked below:
 
 - [make.sc/library](http://make.sc/library)
 
