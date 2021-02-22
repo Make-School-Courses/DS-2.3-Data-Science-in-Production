@@ -6,7 +6,7 @@ This course covers the tools and techniques commonly utilized for production mac
 
 ## Why you should know this
 
-In this course you will acquire a set of key skills expected of Data Scientists and Data Engineers
+In this course you will acquire a set of key skills connecting data science and data modeling with the back end and front end web tools allow you to deploy models to the web. Mastering these skills will make you a more versatile Data Scientist or Data Engineer.
 
 ## Course Specifics
 
@@ -24,9 +24,9 @@ Students by the end of the course will be able to:
 
 1. Implement Advanced Visualizations using a Chart.js/D3.js Frontend, and a Python Backend
 1. Implement a Machine Learning or Deep Learning model on a Web App using Flask and Flask-RESTPlus
-1. Dockerize the Flask Web App and serve it on heroku
-1. Dockerize a Machine Learning or Deep Learning Model and serve it on AWS (Amazon Web Services)
-1. Work on Big Data using PySpark, H2O and Pandas
+1. Understand containers and be familiar with the Docker ecosystem 
+1. Dockerize a Flask Web App containing a Machine Learning or Deep Learning Model and deploy it on Heroku, and also on AWS (Amazon Web Services)
+1. Understand the PySpark ecosystem and work on Big Data using PySpark, H2O and Pandas
 
 
 ## Schedule
@@ -39,21 +39,18 @@ Students by the end of the course will be able to:
 |   -   | Tue, Jan 19 |          **No Class**           |
 |   1   | Thu, Jan 21 |        [Introduction and accessing O'Reilly books through the MARINet library service](https://docs.google.com/document/d/1844RSfAT8ybMYJjBqcU8PO_XR8ExdowONKegBbsrz30/edit?usp=sharing)        |
 |   2   | Tue, Jan 26 |        [Full Stack Deep Learning setup for labs](https://docs.google.com/presentation/d/1hFYmpxAJ-sJzdVCuZ2hJq9qiq_aA7_5UmjVSyrgDYhY/edit?usp=sharing)        |
-|   3   | Thu Jan 28  |        [Lab 1: Building an Interactive app with Chartist
-](https://docs.google.com/presentation/d/14zfXo0wVAJM5BqoIJYH5qOVsl1uDCnD3VFzD2is4bBE/edit?usp=sharing)
-|   4   | Tue, Feb 2  |        [Lab 2: Model Deployment Using Flask:
-Digit Recognizer Web App
+|   3   | Thu Jan 28  |        [Lab 1: Building an Interactive app with Chartist](https://docs.google.com/presentation/d/14zfXo0wVAJM5BqoIJYH5qOVsl1uDCnD3VFzD2is4bBE/edit?usp=sharing)
+|   4   | Tue, Feb 2  |        [Lab 2: Model Deployment Using Flask: Digit Recognizer Web App
 ](https://docs.google.com/presentation/d/1N1NyPNVBQR7SH3SPq3TlWXs4GRXFSM0T_5GTZzMbJGY/edit?usp=sharing)        |
 |   5   | Thu, Feb 4  |        [Lab 3: Nasdaq Stock Prices Visualization with D3](https://docs.google.com/presentation/d/1tloR_rrl5_a3tIhYyGWqNB_rvPTRN4BUCk3H-JfPLGI/edit?usp=sharing)        |
-|   6   | Tue, Feb 9  |        [Lab 4: Deploying an ML model to the Web on Heroku, Part 1
-](https://docs.google.com/presentation/d/1uXSPgFvN7vrT9SrAZkmFYK-UvA2nuz5peakmOa9YEDY/edit?usp=sharing)        |
+|   6   | Tue, Feb 9  |        [Lab 4: Deploying an ML model to the Web on Heroku, Part 1](https://docs.google.com/presentation/d/1uXSPgFvN7vrT9SrAZkmFYK-UvA2nuz5peakmOa9YEDY/edit?usp=sharing)        |
 |   7   | Thu, Feb 11 |        [Lab 5: Deploying an ML model to the Web on Heroku, Part 2](https://docs.google.com/presentation/d/1IYXIgrslGmoa05N2oOPYI-vCTcWXXO2CjzVVXLoI9JE/edit?usp=sharing)        |
 |   8   | Tue, Feb 16 |        [Lab 6: INtroduction to Docker, Part 1](https://docs.google.com/presentation/d/198BbXIZYMFVHe5cMAthQGJYc1z9lYmpnTWiPLnFdxaM/edit?usp=sharing)        |
 |   9   | Thu, Feb 18 |        [Lab 7: Introduction to Docker, Part 2](https://docs.google.com/presentation/d/1qAVZQrVerXegDCAdFxg-NjCzzP5SH4NzQ6OZwknRY00/edit?usp=sharing)        |
 |  10   | Tue, Feb 23 |        [Lab 8: Apache Spark, Part 1]()        |
 |  11   | Thu, Feb 25 |        [Lab 9: Apache Spark, Part 2]()        |
 |  12   | Tues, Mar 2 |        [Lab 10: Apache Spark, Part 3 OR SQL, Part 1]()       |
-|  13   | Thu, Mar 4  |        [Lab 11: Apaceh Spark, Part 4 OR SQL, Part 2]()       |
+|  13   | Thu, Mar 4  |        [Lab 11: Apache Spark, Part 4 OR SQL, Part 2]()       |
 
 
 ## Class Assignments
