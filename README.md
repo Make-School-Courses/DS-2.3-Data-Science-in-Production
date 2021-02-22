@@ -63,7 +63,7 @@ Students by the end of the course will be able to:
 * Extra Credit: Nasdaq Stock Prices Visualization App
 
 
-- If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
+### If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
 
 ## Evaluation
 To pass this course you must meet the following requirements:
