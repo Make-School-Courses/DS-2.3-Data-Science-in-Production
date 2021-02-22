@@ -52,11 +52,9 @@ Students by the end of the course will be able to:
 |  13   | Thu, Mar 4  |        [Lab 11: Apache Spark, Part 4 OR SQL, Part 2]()       |
 
 
-## Class Assignments
+## Class Assignments are on [GradeScope](https://www.gradescope.com/courses/243116)
 
-## On [GradeScope](https://www.gradescope.com/courses/243116)
 
-<!--
 * HW1: Chartist Flask App
 * HW2: MNIST Digit Recognizer Flask App
 * HW3: Dockerize Machine Learning Model and Deploy on AWS
@@ -64,7 +62,6 @@ Students by the end of the course will be able to:
 * HW5: Apache Spark #2 OR SQL
 * Extra Credit: Nasdaq Stock Prices Visualization App
 
- -->
 
 - If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
 
