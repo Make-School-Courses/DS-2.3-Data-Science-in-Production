@@ -62,8 +62,7 @@ Students by the end of the course will be able to:
 * HW5: Apache Spark #2 OR SQL
 * Extra Credit: Nasdaq Stock Prices Visualization App
 
-
-#### If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/accommodations-policy).
+If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our accommodations program, by filling out the [intake form](https://goo.gl/forms/cbfEaxLkutwsYRHo1).
 
 ## Evaluation
 To pass this course you must meet the following requirements:
